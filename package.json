@@ -1,0 +1,25 @@
+{
+  "name": "shakira",
+  "version": "1.0.0",
+  "description": "Waka time based app for free lancers",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaom182/shakira.git"
+  },
+  "keywords": [
+    "wakatime",
+    "time",
+    "tracker",
+    "freelancs"
+  ],
+  "author": "João M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaom182/shakira/issues"
+  },
+  "homepage": "https://github.com/joaom182/shakira#readme"
+}
